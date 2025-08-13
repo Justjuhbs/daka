@@ -9,6 +9,9 @@
 <p align="center">
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%"> <br> Esse era o projeto inicial e eu modifiquei a aparência ao decorrer do curso. </br>
 </p>
+<p align="center">
+<img alt="Projeto Julia" src=".github/daka.png" width="100%"> <br> Esse é o meu projeto. </br>
+ </p>
 
 <br>
 
