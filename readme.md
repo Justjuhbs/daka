@@ -10,7 +10,7 @@
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%"> <br> Esse era o projeto inicial e eu modifiquei a aparência ao decorrer do curso. </br>
 </p>
 <p align="center">
-<img alt="Projeto Julia" src=".github/daka.png" width="100%"> <br> Esse é o meu projeto. </br>
+<img alt="Projeto daka" src=".github/daka.png" width="100%"> <br> Esse é o meu <a href="https://justjuhbs.github.io/daka" target='_blank'>projeto.</a> </br>
  </p>
 
 <br>
